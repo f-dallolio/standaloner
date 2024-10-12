@@ -12,5 +12,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Imports: 
     gh
-URL: https://github.com/f-dallolio/standaloner
+URL: https://github.com/f-dallolio/standaloner, https://f-dallolio.github.io/standaloner/
 BugReports: https://github.com/f-dallolio/standaloner/issues
